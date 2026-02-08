@@ -192,7 +192,7 @@ arr = [1, 1, 3, 2, 3]
 n = 5
 ```
 
-### Step 1: Create `freq` array
+## Step 1: Create `freq` array
 
 ```java
 int[] freq = new int[n + 1];
@@ -206,7 +206,6 @@ So initially:
 
 > We ignore index `0`, we use `1 to n`
 
----
 
 ## 🔁 Step 2: Loop Visualization
 
@@ -217,8 +216,6 @@ for (int num : arr) {
     freq[num]++;
 }
 ```
-
----
 
 ### 🔄 Iteration 1
 
