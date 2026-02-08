@@ -261,6 +261,15 @@ freq = [0, 2, 0, 1, 0, 0]
 freq[arr[i]]++;
 ```
 
+## 🔥 Why This Works Only Here?
+
+Because of this constraint:
+
+```
+1 <= arr[i] <= n
+```
+
+If numbers were random (like 1000, 5000), this would **not work**.
 
 
 ---
