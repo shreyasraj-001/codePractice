@@ -1,5 +1,5 @@
 # Majority Element — Moore’s Voting Algorithm
-🔗 Problem Link: [ https://leetcode.com/problems/majority-element/]( https://leetcode.com/problems/majority-element/)
+🔗 Problem Link: [https://leetcode.com/problems/majority-element/]( https://leetcode.com/problems/majority-element/)
 
 ---
 ## 📌 Problem Statement
