@@ -1,4 +1,4 @@
-# Merge Overlapping Intervals https://leetcode.com/problems/merge-intervals/
+# Merge Overlapping Intervals [Problem Link] (https://leetcode.com/problems/merge-intervals/)
 
 **Tags:** `Array`, `Greedy`, `Sorting`, `Intervals`, `Pattern: Interval Merging`
 
